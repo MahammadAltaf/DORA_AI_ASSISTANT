@@ -9,7 +9,7 @@
 ```
 ├── main.py               # Main logic for voice command processing
 ├── musicLibrary.py       # Dictionary storing music name & YouTube links
-├── requirements.txt      # Python dependencies
+├── requirements.txt      # Python dependencies 
 ```
 
 ---
